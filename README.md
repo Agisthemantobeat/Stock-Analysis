@@ -13,6 +13,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install quandl.
 ```bash
 pip install quandl numpy pandas sklearn
 ```
+## About Dataset
+This data feed offers stock prices, dividends and splits for 3000 US publicly-traded companies.
+
+Note: As of April 11, 2018 this data feed is no longer actively supported by the Quandl community.
+This project is for learning purpose so we do not recommend using it for investment or analysis.
+
 
 ## Usage
 
